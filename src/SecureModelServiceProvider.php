@@ -1,6 +1,6 @@
 <?php
 
-namespace Reda\SecureModel;
+namespace redaelfillali\LaravelSecureModel;
 
 use Illuminate\Support\ServiceProvider;
 

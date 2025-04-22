@@ -5,7 +5,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Redaelfillali\\laravel-secure-model\\": "src/"
+      "Redaelfillali\\LaravelSecureModel\\": "src/"
     }
   },
   "require": {
@@ -16,7 +16,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Redaelfillali\\laravel-secure-model\\SecureModelServiceProvider"
+        "Redaelfillali\\LaravelSecureModel\\SecureModelServiceProvider"
       ]
     }
   },
